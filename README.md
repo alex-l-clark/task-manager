@@ -49,36 +49,3 @@ o Delete a Task
 o Logout
 For each option, call the corresponding function, and loop back to the menu until
 the user logs out.
-1. Set and Track Budget:
-• Create a function that allows the user to input a monthly budget. Prompt the
-user to:
-o Enter the total amount they want to budget for the month (Example:
-$500)
-• Create another function that calculates the total expenses recorded so far.
-o Compare the total with the user’s monthly budget
-o If the total expenses exceed the budget, display a warning (Example:
-You have exceeded your budget!)
-o If the expenses are within the budget, display the remaining balance
-(Example: You have $150 left for the month)
-2. Save and Load Expenses:
-• Implement a function to save all expenses to a CSV file, with each row
-containing the date, category, amount, and description of each expense
-• Create another function to load expenses from the CSV file. When the
-program starts, it should:
-o Read the saved data from the file
-o Load it back into the list of expenses so the user can see their previous
-expenses and continue from where they left off
-3. Create an Interactive Menu:
-• Build a function to display a menu with the following options:
-o Add Expense
-o View Expenses
-o Track Budget
-o Save Expenses
-o Exit
-• Allow the user to enter a number to choose an option.
-• Implement conditions for each menu selection:
-o If the user selects option 1, call the function to add an expense
-o If the user selects option 2, call the function to view expenses
-o If the user selects option 3, call the function to track the budget
-o If the user selects option 4, call the function to save expenses to the file
-o If the user selects option 5, save the expenses and exit the program
