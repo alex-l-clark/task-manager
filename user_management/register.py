@@ -1,4 +1,7 @@
 import hashlib
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import get_valid_input
 
 def check_username(username):
@@ -53,5 +56,3 @@ def sign_up():
         print("Registration successful!")
     else:
         print("Registration failed. Please try again.")
-
-sign_up()

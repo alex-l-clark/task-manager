@@ -1,4 +1,7 @@
 import hashlib
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import get_valid_input
 
 def find_user_credentials(username):
@@ -42,7 +45,7 @@ def login():
     else:
         return False, "Invalid password"
 
-def login_with_retry():
+#def login_with_retry():
     """Login function with retry logic for CLI interface"""
     while True:
         success, message = login()
