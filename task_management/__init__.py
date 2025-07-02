@@ -12,8 +12,6 @@ The module is organized into the following components:
 - delete_task: Functions for deleting tasks
 - utils: Utility functions for task operations
 
-Author: Task Manager System
-Date: 2024
 Version: 1.0.0
 """
 
