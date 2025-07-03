@@ -3,6 +3,10 @@ Task Management System - View Module
 
 This module provides functions for displaying tasks in various formats and layouts.
 It includes utilities for formatting task output and creating user-friendly displays.
+
+Author: Alex Clark
+Date: July 2nd, 2025
+Version: 1.0.0
 """
 
 from typing import List, Dict, Optional

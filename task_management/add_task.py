@@ -1,3 +1,14 @@
+"""
+Task Management System - Add Task Module
+
+This module provides functionality to add new tasks to the task management system.
+It includes functions for generating unique task IDs and saving tasks to persistent storage.
+
+Author: Alex Clark
+Date: July 2nd, 2025
+Version: 1.0.0
+"""
+
 import uuid
 import os
 from typing import Optional

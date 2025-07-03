@@ -10,6 +10,8 @@ The module is organized into the following components:
 - register: Functions for user registration and account creation
 - utils: Utility functions for input validation and user operations
 
+Author: Alex Clark
+Date: July 2nd, 2025
 Version: 1.0.0
 """
 
@@ -25,5 +27,5 @@ __all__ = [
 
 # Module metadata
 __version__ = "1.0.0"
-__author__ = "Task Manager System"
+__author__ = "Alex Clark"
 __description__ = "Core user authentication and registration functionality" 

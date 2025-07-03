@@ -2,6 +2,10 @@
 Task Management System - Delete Task Module
 
 This module provides the delete_task operation for tasks.
+
+Author: Alex Clark
+Date: July 2nd, 2025
+Version: 1.0.0
 """
 
 from .load_task import load_tasks, get_task_by_id
