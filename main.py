@@ -2,6 +2,10 @@
 Main entry point for the Task Manager application.
 
 This file demonstrates how to use the reorganized user_management and task_management packages.
+
+Author: Alex Clark
+Date: July 2nd, 2025
+Version: 1.0.0
 """
 
 from user_management import login, sign_up

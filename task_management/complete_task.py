@@ -1,7 +1,11 @@
 """
-Task Management System - Task Operations Module
+Task Management System - Complete Task Module
 
 This module provides the complete_task operation and helpers.
+
+Author: Alex Clark
+Date: July 2nd, 2025
+Version: 1.0.0
 """
 
 from .load_task import load_tasks, get_task_by_id

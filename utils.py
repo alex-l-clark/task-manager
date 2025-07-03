@@ -4,8 +4,8 @@ Task Manager System - Utilities Module
 This module provides utility functions used across the task management system.
 It includes input validation, data processing, and other helper functions.
 
-Author: Task Manager System
-Date: 2024
+Author: Alex Clark
+Date: July 2nd, 2025
 Version: 1.0.0
 """
 

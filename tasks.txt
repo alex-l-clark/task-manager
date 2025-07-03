@@ -2,5 +2,6 @@
 7a28118f-d0c1-4aa7-9c37-62fff731a724|unknown|do homework|pending
 1999f9ac-c7dd-44ae-a310-44c7aff83ebe|alex|Finish project|pending
 2f2a71d0-8b47-4b1b-962c-f75059435bc0|ac|read|completed
-2009229a-b7ec-45ba-9e3b-c7209fb5830c|alex|Watch TV|pending
 fc496ece-6f42-40ca-9e3c-e4199676c0d2|al|go to bed|completed
+a4ae2e3b-8990-4790-a521-0e800fd065b3|alex|Talk to Margaret|completed
+ccf63aa4-04b5-4b0f-a66e-b075492157fd|alex|Code|pending

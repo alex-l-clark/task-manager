@@ -12,6 +12,8 @@ The module is organized into the following components:
 - delete_task: Functions for deleting tasks
 - utils: Utility functions for task operations
 
+Author: Alex Clark
+Date: July 2nd, 2025
 Version: 1.0.0
 """
 
@@ -41,5 +43,5 @@ __all__ = [
 ]
 
 __version__ = "1.0.0"
-__author__ = "Task Manager System"
+__author__ = "Alex Clark"
 __description__ = "Core task management functionality" 

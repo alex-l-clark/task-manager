@@ -1,3 +1,15 @@
+"""
+Task Management System - Load Task Module
+
+This module provides functionality to load and retrieve tasks from the persistent storage.
+It includes functions for reading tasks from the storage file and converting them to
+structured data for use in the application.
+
+Author: Alex Clark
+Date: July 2nd, 2025
+Version: 1.0.0
+"""
+
 import os
 from typing import List, Dict, Optional
 

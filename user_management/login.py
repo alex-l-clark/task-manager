@@ -5,8 +5,8 @@ This module provides functionality for user authentication and login verificatio
 It includes functions for finding user credentials, password verification, and
 the main login process.
 
-Author: Task Manager System
-Date: 2024
+Author: Alex Clark
+Date: July 2nd, 2025
 Version: 1.0.0
 """
 

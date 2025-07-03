@@ -5,8 +5,8 @@ This module provides functionality for user registration and account creation.
 It includes functions for username validation, user credential storage, and
 the main registration process.
 
-Author: Task Manager System
-Date: 2024
+Author: Alex Clark
+Date: July 2nd, 2025
 Version: 1.0.0
 """
 
